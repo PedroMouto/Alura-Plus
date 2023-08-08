@@ -14,5 +14,4 @@ Projeto desenvolvido com os cursos de HTML e CSS da Alura. Foram realizadas as s
 * CSS
 <br></br>
 
-
-
+![alura-plus-lemon-two vercel app_ (1)](https://github.com/PedroMouto/Alura-Plus/assets/135659043/17e7697a-f481-45af-b61e-aedc811c07e7)
