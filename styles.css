@@ -117,19 +117,17 @@ body {
     color: var(--branco-principal)
 }
 
-.rodape__logo {
-    margin: 0em 44em;
-}
-
 .rodape__lista {
     display: flex;
     justify-content: center;
     list-style-type: none;
-    margin: 1em 0;
+    margin-top: 1em;
 }
 
 .lista__link a{
-    margin: 1em 1em;
+    text-decoration: none;
+    color: var(--branco-principal);
+    margin-left: 1em;
 }
 
 .lista__ancora a{
@@ -139,16 +137,14 @@ body {
 }
 
 .rodape__texto {
-    text-align: center;
-    margin: 1em 2em;
+    margin: 1em 0;
     color: var(--cinza-secundario);
     font-size: 14px;
-    font-weight: 400px;
 }
 
 .rodape {
-    margin-top: 6em;
-    margin-bottom: 2em;
+    text-align: center;
+    margin: 5em 3em;
 }
 
 .lista__link a:hover {
